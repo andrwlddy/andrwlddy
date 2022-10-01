@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrwlddy
 - 👀 I’m interested in ... Cloud Computing, Linux and Cybersecurity!!
-- 🌱 I’m currently learning ... Microsofts Azure and Cloud Computing
+- 🌱 I’m currently learning ... Microsoft Azure and Cloud Computing
 - 💞️ I’m looking to collaborate on ... learning cloud technologies
 - 📫 How to reach me ... andrewj.leddy@gmail.com
 
